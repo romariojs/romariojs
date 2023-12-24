@@ -2,7 +2,7 @@
 
 𝘛𝘦𝘤𝘯𝘪𝘤𝘰 𝘦𝘮 𝘦𝘭𝘦𝘵𝘳𝘰𝘮𝘦𝘤𝘢𝘯𝘪𝘤𝘢
 
-Programador **Python | Arduino**
+DEV **Python | Arduino**
 
 Olá, sou um programador experiente em **Python e Arduino**. Minha paixão pela programação começou quando eu estava parado em casa e desde então tenho aprimorado minhas habilidades em diversas áreas, desde desenvolvimento de software até projetos de automação com Arduino.
 
